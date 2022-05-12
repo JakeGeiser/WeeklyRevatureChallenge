@@ -113,6 +113,30 @@ public class Week1 {
 	}
 }
 
+/**
+ * BELOW IS THE PRINT OUTPUTS FROM MAIN METHOD
+ */
+//(1) Magic Index
+//[0, 1, 2, 3, 4, 5, 6]
+//[0, 1, 6]
+//
+//
+//
+//(2) Power Sets
+//[]
+//[1]
+//[4]
+//[1, 4]
+//[8]
+//[1, 8]
+//[4, 8]
+//[1, 4, 8]
+//
+//
+//
+//(3) Recursive Multiplication
+//30
+
 
 
 
